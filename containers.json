@@ -1,0 +1,8 @@
+[  {
+    "Description": "Puppet Enterprise OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "dbsbankimageprocessor",
+        "S3Key": "SQS/puppet-2017.3.5-learning-6.5.ova"
+    }
+}]
